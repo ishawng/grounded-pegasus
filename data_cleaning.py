@@ -2,7 +2,8 @@ import json
 from bs4 import BeautifulSoup
 import re
 
-svamp = open('datasets/SVAMP.json')
+# Clean SVAMP dataset
+svamp = open('datasets/raw/SVAMP_raw.json')
 svamp_data = json.load(svamp)
 
 svamp_list = []
@@ -16,11 +17,17 @@ for problem in svamp_data:
     svamp_list.append(data)
 
 svamp.close()
-
-with open('datasets/SVAMP_cleaned.json', 'w') as outfile:
+with open('datasets/SVAMP/SVAMP.json', 'w') as outfile:
     json.dump(svamp_list, outfile, indent=4)
 
-asdiv = open('datasets/ASDiv.xml')
+with open('datasets/SVAMP/SVAMP_addition.json', 'w') as outfile:
+    json.dump([problem for problem in svamp_list if problem['Type'] == 'Addition'], outfile, indent=4)
+
+with open('datasets/SVAMP/SVAMP_subtraction.json', 'w') as outfile:
+    json.dump([problem for problem in svamp_list if problem['Type'] == 'Subtraction'], outfile, indent=4)
+
+# Clean ASDiv dataset
+asdiv = open('datasets/raw/ASDiv_raw.xml')
 asdiv_data = BeautifulSoup(asdiv, 'xml')
 asdiv_problems = asdiv_data.find_all('Problem')
 
@@ -43,8 +50,20 @@ for problem in asdiv_problems:
 
 asdiv.close()
 
-with open('datasets/ASDiv_cleaned.json', 'w') as outfile:
+with open('datasets/ASDiv/ASDiv.json', 'w') as outfile:
     json.dump(asdiv_list, outfile, indent=4)
 
-with open('datasets/ASDiv_numerical_cleaned.json', 'w') as outfile:
+with open('datasets/ASDiv/ASDiv_addition.json', 'w') as outfile:
+    json.dump([problem for problem in asdiv_list if problem['Type'] == 'Addition'], outfile, indent=4)
+
+with open('datasets/ASDiv/ASDiv_subtraction.json', 'w') as outfile:
+    json.dump([problem for problem in asdiv_list if problem['Type'] == 'Subtraction'], outfile, indent=4)
+
+with open('datasets/ASDiv/ASDiv_numerical.json', 'w') as outfile:
     json.dump(num_asdiv_list, outfile, indent=4)
+
+with open('datasets/ASDiv/ASDiv_numerical_addition.json', 'w') as outfile:
+    json.dump([problem for problem in num_asdiv_list if problem['Type'] == 'Addition'], outfile, indent=4)
+
+with open('datasets/ASDiv/ASDiv_numerical_subtraction.json', 'w') as outfile:
+    json.dump([problem for problem in num_asdiv_list if problem['Type'] == 'Subtraction'], outfile, indent=4)
