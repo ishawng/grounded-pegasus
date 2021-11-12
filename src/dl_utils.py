@@ -11,12 +11,8 @@ def compute_accuracy(pred_sequences, labels: torch.Tensor) -> float:
     """Compute the accuracy given the prediction logits and the ground-truth labels
 
     Args:
-        logits: The output of the forward pass through the model.
-                for K classes logits[k] (where 0 <= k < K) corresponds to the
-                log-odds of class `k` being the correct one.
-                Shape: (batch_size, num_classes)
-        labels: The ground truth label for each instance in the batch
-                Shape: (batch_size)
+        pred_sequences: token sequence to be evaluated
+        labels: correct sequence
     Returns:
         accuracy: The accuracy of the predicted logits
                    (number of correct predictions / total number of examples)
@@ -25,7 +21,13 @@ def compute_accuracy(pred_sequences, labels: torch.Tensor) -> float:
     ############################################################################
     # Student code begin
     ############################################################################
-    raise NotImplemented("Should implement dl_utils/compute_accuracy")
+    correct = []
+    for i in range(len(labels)):
+        pred = eval(pred_sequences[i])
+        label = eval(labels[i])
+        if pred == label:
+            correct.append(pred)
+    batch_accuracy = len(correct) / len(labels)
     ############################################################################
     # Student code end
     ############################################################################
