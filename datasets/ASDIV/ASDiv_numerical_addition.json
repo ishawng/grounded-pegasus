@@ -1,0 +1,2459 @@
+[
+    {
+        "Body": "Seven red apples and two green apples are in the basket.",
+        "Question": "How many apples are in the basket?",
+        "Equation": "7+2=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Ellen has six more balls than Marin. Marin has nine balls.",
+        "Question": "How many balls does Ellen have?",
+        "Equation": "6+9=15",
+        "Answer": 15.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Janet has nine oranges and Sharon has seven oranges.",
+        "Question": "How many oranges do Janet and Sharon have together? ",
+        "Equation": "9+7=16",
+        "Answer": 16.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Allan brought two balloons and Jake brought four balloons to the park.",
+        "Question": "How many balloons did Allan and Jake have in the park?",
+        "Equation": "2+4=6",
+        "Answer": 6.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Adam has five more apples than Jackie. Jackie has nine apples.",
+        "Question": "How many apples does Adam have?",
+        "Equation": "5+9=14",
+        "Answer": 14.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Brian has four more plums than Paul. Paul has seven plums.",
+        "Question": "How many plums does Brian have?",
+        "Equation": "4+7=11",
+        "Answer": 11.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Sandra took six cups of coffee and Marcie took two cups of coffee.",
+        "Question": "How many cups of coffee did Sandra and Marcie take in total?",
+        "Equation": "2+6=8",
+        "Answer": 8.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "14 red plums and four green plums are in the basket.",
+        "Question": "How many plums are in the basket? ",
+        "Equation": "4+14=18",
+        "Answer": 18.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Marin has nine apples and Donald has two apples.",
+        "Question": "How many apples do Marin and Donald have together?",
+        "Equation": "9+2=11",
+        "Answer": 11.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Five red peaches and 14 green peaches are in the basket.",
+        "Question": "How many peaches are in the basket? ",
+        "Equation": "5+14=19",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "20 peaches are in the basket. 25 more peaches are put in the basket.",
+        "Question": "How many peaches are in the basket now?",
+        "Equation": "20+25=45",
+        "Answer": 45.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Some oranges were in the basket. Five oranges were taken from the basket. Now there are three oranges.",
+        "Question": "How many oranges were in the basket before some of the oranges were taken?",
+        "Equation": "5+3=8",
+        "Answer": 8.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "2 birds were sitting on the fence. 4 more birds came to join them.",
+        "Question": "How many birds are sitting on the fence?",
+        "Equation": "2+4=6",
+        "Answer": 6.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "1 lonely pigeons was eating breadcrumbs. Another pigeon came to eat breadcrumbs, too.",
+        "Question": "How many pigeons are eating breadcrumbs now?",
+        "Equation": "1+1=2",
+        "Answer": 2.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "3 owls were sitting on the fence. 2 more owls joined them.",
+        "Question": "How many owls are on the fence now?",
+        "Equation": "3+2=5",
+        "Answer": 5.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "2 toucans are sitting on a tree limb. 1 more toucan joins them.",
+        "Question": "How many toucans in all?",
+        "Equation": "2+1=3",
+        "Answer": 3.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Hilt bought a yoyo for 24 cents and a whistle for 14 cents.",
+        "Question": "How much did she spend in all for the two toys?",
+        "Equation": "24+14=38",
+        "Answer": 38.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Hilt made 5 Rice Krispie Treats. She used 8 large marshmallows and 10 mini marshmallows.",
+        "Question": "How many marshmallows did she use altogether?",
+        "Equation": "8+10=18",
+        "Answer": 18.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Hilt saw 2 dogs and 2 chickens.",
+        "Question": "How many animal legs did she see?",
+        "Equation": "(4+4)+(2+2)=12",
+        "Answer": 12.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Hilt bought 2 pizzas. Each pizza had 8 slices.",
+        "Question": "How many total slices of pizza did she have?",
+        "Equation": "8+8=16",
+        "Answer": 16.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mary's mom is getting ready for Mary's birthday party. She blew up 6 balloons this morning and 5 balloons this afternoon.",
+        "Question": "How many balloons did she blow up in all?",
+        "Equation": "6+5=11",
+        "Answer": 11.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Shelby's teacher gives out gold stars for great math work. Yesterday, Shelby earned 4 gold stars. Today, she earned 3 more.",
+        "Question": "How many gold stars did Shelby earn in all?",
+        "Equation": "4+3=7",
+        "Answer": 7.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The Litter Patrol picked up 10 glass bottles and 8 aluminum cans on Saturday.",
+        "Question": "How many pieces of litter did they pick up altogether?",
+        "Equation": "10+8=18",
+        "Answer": 18.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Lucy went to the grocery store. She bought 12 packs of cookies and 16 packs of noodles.",
+        "Question": "How many packs of groceries did she buy in all?",
+        "Equation": "12+16=28",
+        "Answer": 28.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Roden went to a pet shop. He bought 15 gold fish and 7 blue fish.",
+        "Question": "How many fish did he buy?",
+        "Equation": "15+7=22",
+        "Answer": 22.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "I read 21 pages of my English book yesterday. Today, I read 17 pages.",
+        "Question": "What is the total number of pages did I read?",
+        "Equation": "21+17=38",
+        "Answer": 38.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "In a school, there are 542 girls and 387 boys.",
+        "Question": "How many pupils are there in that school?",
+        "Equation": "542+387=929",
+        "Answer": 929.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Linda has 34 candies. Chloe has 28.",
+        "Question": "How many candies do they have in all?",
+        "Equation": "34+28=62",
+        "Answer": 62.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jose has 28 chickens and 18 ducks.",
+        "Question": "How many fowls does he have?",
+        "Equation": "28+18=46",
+        "Answer": 46.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Gino has 63 popsicle sticks. I have 50 popsicle sticks.",
+        "Question": "What is the sum of our popsicle sticks?",
+        "Equation": "63+50=113",
+        "Answer": 113.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Lino picked up 292 shells at the seashore in the morning and 324 shells in the afternoon.",
+        "Question": "How many shells did he pick up in all?",
+        "Equation": "292+324=616",
+        "Answer": 616.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There were 105 parents in the program and 698 pupils, too.",
+        "Question": "How many people were present in the program?",
+        "Equation": "105+698=803",
+        "Answer": 803.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Last Saturday, Marie sold 425 magazines and 275 newspapers.",
+        "Question": "What is the total number of reading materials she sold?",
+        "Equation": "425+275=700",
+        "Answer": 700.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are twelve birds on the fence. Eight more birds land on the fence.",
+        "Question": "How many birds are on the fence?",
+        "Equation": "12+8=20",
+        "Answer": 20.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Twenty-two boys went down the slide. Thirteen more boys went down the slide.",
+        "Question": "How many boys went down the slide?",
+        "Equation": "22+13=35",
+        "Answer": 35.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Thirteen ducks are swimming in a lake. Twenty more ducks come to join them.",
+        "Question": "How many ducks are swimming in the lake?",
+        "Equation": "13+20=33",
+        "Answer": 33.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Thirty dogs are barking. Ten more dogs start to bark.",
+        "Question": "How many dogs are barking?",
+        "Equation": "30+10=40",
+        "Answer": 40.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Bobby ate twenty-six pieces of candy. Then, he ate seventeen more.",
+        "Question": "How many pieces of candy did Bobby eat?",
+        "Equation": "26+17=43",
+        "Answer": 43.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Sandy had twenty-six pet fish. She bought six more fish.",
+        "Question": "How many pet fish does Sandy have now?",
+        "Equation": "26+6=32",
+        "Answer": 32.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The clown blew up forty-seven balloons. Then he blew up thirteen more balloons.",
+        "Question": "How many balloons does the clown have now?",
+        "Equation": "47+13=60",
+        "Answer": 60.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Our class got fifty-four books from the library. Then we got twenty-three more books from the library.",
+        "Question": "How many books did our class get from the library?",
+        "Equation": "54+23=77",
+        "Answer": 77.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Julia played tag with 12 kids on Monday. She played tag with 7 kids on Tuesday.",
+        "Question": "How many kids did she play with altogether?",
+        "Equation": "12+7=19",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Molly had 14 candles on her birthday cake. She grew older and got 6 more on her birthday cake.",
+        "Question": "How old is Molly now?",
+        "Equation": "14+6=20",
+        "Answer": 20.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "James ate 22 carrot sticks before dinner and 15 more after dinner.",
+        "Question": "How many carrot sticks did he eat?",
+        "Equation": "22+15=37",
+        "Answer": 37.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Charles found 6 pennies on his way to school. He also had 3 nickels already at home.",
+        "Question": "How much money does he now have in all?",
+        "Equation": "6 (penny)*1 (cent/penny) + 3 (nickel)*5 (cent/nickel) = 21 (cent)",
+        "Answer": 21.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jovana filled her bucket with 5 pounds of shells. If she adds 12 more pounds of shell to fill her bucket,",
+        "Question": "how many pounds does she have?",
+        "Equation": "5+12=17",
+        "Answer": 17.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Isha's pencil is 12 cubes long. If she gets another pencil that is 12 cubes long,",
+        "Question": "how many cubes long are both pencils?",
+        "Equation": "12+12=24",
+        "Answer": 24.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Isabella's hair is 18 cubes long. She gets hair extensions and it doubles her length.",
+        "Question": "How much hair does she have now?",
+        "Equation": "18+18=36",
+        "Answer": 36.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Isabella's hair is 18 cubes long. If her hair grows 4 more inches,",
+        "Question": "how long will it be?",
+        "Equation": "18+4=22",
+        "Answer": 22.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Sheridan has 17 cats. Mr. Sheridan gave her 14 more cats.",
+        "Question": "How many cats does Mrs. Sheridan have altogether?",
+        "Equation": "17+14=31",
+        "Answer": 31.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Sheridan has 22 fish. Her sister gave her 47 more fish.",
+        "Question": "How many fish does she have now?",
+        "Equation": "22+47=69",
+        "Answer": 69.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Heine is buying Valentine's Day treats for her 2 dogs. If she wants to buy them 3 heart biscuits each,",
+        "Question": "how many biscuits does she need to buy?",
+        "Equation": "3+3=6",
+        "Answer": 6.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Heine is buying Valentine's Day treats for her 2 dogs. If she wants to buy them 5 heart biscuits each and a set of puppy boots each,",
+        "Question": "how many items will she buy?",
+        "Equation": "(5+1)+(5+1)=12",
+        "Answer": 12.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Daniel had some noodles. He gave 12 noodles to William. Now Daniel only has 54 noodles.",
+        "Question": "How many noodles did Daniel have to begin with?",
+        "Equation": "54+12=66",
+        "Answer": 66.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There were 28 girls and 35 boys on the playground at recess.",
+        "Question": "How many children were there in all?",
+        "Equation": "28+35=63",
+        "Answer": 63.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There were 58 geese and 37 ducks in the marsh.",
+        "Question": "How many birds were there in all?",
+        "Equation": "58+37=95",
+        "Answer": 95.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Alex had some candles for his Jack O'Lanterns. He used 32 of them. Now he has 12 left.",
+        "Question": "How many candles did Alex have to start with?",
+        "Equation": "32+12=44",
+        "Answer": 44.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There were 14 kids on the soccer field. 22 kids decided to join in.",
+        "Question": "Now how many kids are on the soccer field?",
+        "Equation": "14+22=36",
+        "Answer": 36.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jane has 28 old, brown sheets of drawing paper and 27 old, yellow sheets of drawing paper.",
+        "Question": "How many pieces of drawing paper does she have?",
+        "Equation": "28+27=55",
+        "Answer": 55.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Ethan has 31 presents. Alissa has 22 more than Ethan.",
+        "Question": "How many presents does Alissa have?",
+        "Equation": "31+22=53",
+        "Answer": 53.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "On the first day of the week Pat had 39 stickers. Pat earned 22 more during the week.",
+        "Question": "How many stickers did Pat have at the end of the week?",
+        "Equation": "39+22=61",
+        "Answer": 61.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Sarah had some trucks. She gave 13 to Jeff, and now she has 38 trucks left.",
+        "Question": "How many trucks did Sarah have to start with?",
+        "Equation": "38+13=51",
+        "Answer": 51.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Connie has 41 red markers and 64 blue markers.",
+        "Question": "How many markers does she have altogether?",
+        "Equation": "41+64=105",
+        "Answer": 105.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Joe had fifty toy cars. If he gets twelve more cars,",
+        "Question": "how many cars will he have then?",
+        "Equation": "50+12=62",
+        "Answer": 62.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are 38 books on the shelf. Marta put 10 more books on the shelf.",
+        "Question": "How many books are on the shelf now?",
+        "Equation": "38+10=48",
+        "Answer": 48.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Hilt bought an ice cream cone for 99 cents.",
+        "Question": "How much would 2 ice cream cones cost?",
+        "Equation": "99+99=198 cents",
+        "Answer": 198.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Hilt saw 21 snakes, 11 alligators, 36 frogs, and 57 bears.",
+        "Question": "How many reptiles did Mrs. Hilt see?",
+        "Equation": "21+11=32",
+        "Answer": 32.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "I have 28 cents in my pocket.",
+        "Question": "How coins could I have on minimization?",
+        "Equation": "28/25=1 r3; 3/1=3; 1+3=4",
+        "Answer": 4.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mark has 13 trees in his backyard. If he plants 12 more,",
+        "Question": "how many trees will he have?",
+        "Equation": "13+12=25",
+        "Answer": 25.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Dane eats lunch at 12:30. It takes him 20 minutes to eat.",
+        "Question": "What time does Dane finish eating?",
+        "Equation": "((12*60 (min/hour) + 30 (min)) + 20 (min))/60 (min/hour) = 12 r50; hh:mm=12:50",
+        "Answer": 1250.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Charlie has 31 more snowballs than Lucy. She has 19 snowballs.",
+        "Question": "How many does Charlie have?",
+        "Equation": "31+19=50",
+        "Answer": 50.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Marcus and his friends are starting a recycling project to help the school raise some money for charity. They were tasked to collect different materials and create useful things from those. If Marcus was able to gather 25 milk bottles, and John was able to gather 20 milk bottles,",
+        "Question": "how many milk bottles do they have available for recycling?",
+        "Equation": "20+25=45",
+        "Answer": 45.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Chris, tasked to lead the newspaper collection, was able to obtain 42 newspapers from their neighborhood. If his sister Lily helped him and was able to get 23 more newspapers from another block,",
+        "Question": "how many newspapers were they able to collect together?",
+        "Equation": "42+23=65",
+        "Answer": 65.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Andy, another part of the recycling team decided he would gather tin foil wrappers. If he was able to pick up 34 wrappers around the village dumpster and his best friend Max was able to collect 15,",
+        "Question": "how many wrappers were gathered in total?",
+        "Equation": "34+15=49",
+        "Answer": 49.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After collecting materials, they started making recycled products to sell during the school's recycling fair. If Marcus made 26 pen holders from the milk bottles and Annie was able to make 37,",
+        "Question": "how many pen holders were made?",
+        "Equation": "26+37=63",
+        "Answer": 63.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "If the group was able to make 65 recycled materials from what they gathered and the teachers were able to make 28,",
+        "Question": "how many recycled products will they be able to sell at the fair?",
+        "Equation": "65+28=93",
+        "Answer": 93.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Robyn and Lucy are members of their village's Girl Scout troop. During weekends and some weekdays, they go around selling cookies in the neighborhood. They have a week before the month ends and they are doing their best to get a badge from selling cookies. Working overtime, Robyn sold 47 packs of cookies while Lucy sold 29.",
+        "Question": "How many packs of cookies were they able to sell that day?",
+        "Equation": "47+29=76",
+        "Answer": 76.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Because of an upcoming exam, Robyn will not be able to sell cookies on Tuesday. To make up for it, Lucy decided to do double the work to catch up. She sold 34 cookies on her first round and 27 on her second round.",
+        "Question": "How many cookies were sold by Lucy?",
+        "Equation": "34+27=61",
+        "Answer": 61.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Still a little behind, Robyn asked her mother to drive them around town on Wednesday to cover more houses. That day Robyn sold 55 packs of cookies while Lucy sold 43.",
+        "Question": "How many packs were they able to sell that day?",
+        "Equation": "55+43=98",
+        "Answer": 98.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "With the end of the month coming in two days, they decided to sell cookies to the neighboring villages as well. If they sold 23 packs on one village and 28 on the other,",
+        "Question": "how many cookies were they able to sell in the other villages?",
+        "Equation": "23+28=51",
+        "Answer": 51.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "On the day of the awarding ceremony, Robyn and Lucy decided to sell more cookies during the morning to make sure they get the badge. Lucy sold 19 packs and Robyn sold 16.",
+        "Question": "How many packs did they sell on their last day?",
+        "Equation": "19+16=35",
+        "Answer": 35.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "It's Earth Awareness Day and the town of Flora is celebrating by planting trees in areas where the forest has been damaged. Mayor Fauna, leader of the town of Flora, donated 27 oak tree seedlings and 16 seedlings of holly.",
+        "Question": "How many seedlings did he donate altogether?",
+        "Equation": "27+16=43",
+        "Answer": 43.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mr. Fortree, a businessman also gave seedlings for the tree planting activity. If he gave 14 seedlings of cedar and 38 seedlings of pine,",
+        "Question": "how many seedlings did he give in total?",
+        "Equation": "14+38=52",
+        "Answer": 52.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Students from Flora Middle School were asked to participate in the event. They planted 47 apple trees and 27 orange trees in the forest near their school.",
+        "Question": "How many trees in total did the students plant?",
+        "Equation": "47+27=74",
+        "Answer": 74.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Rangers from Flora Natural Park and Wildlife Reserve also joined the activities on that day. They planted 75 redwood trees and 25 cypress trees to replace the trees that were destroyed during a recent forest fire.",
+        "Question": "How many trees did the rangers plant?",
+        "Equation": "25+75=100",
+        "Answer": 100.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Hazel and her father both love going on fishing trips. This year, they planned to go around the Great Lakes for a unique fishing experience. Their first stop is Lake Ontario. Hazel and her father decided to have a contest between them. If Hazel caught 24 salmons and her dad caught 27,",
+        "Question": "how many salmons did they catch in total?",
+        "Equation": "24+27=51",
+        "Answer": 51.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Their next destination is Lake Erie. Still in a contest, Hazel caught 48 different fishes while her father caught 46.",
+        "Question": "How many fishes did they catch in Lake Erie?",
+        "Equation": "48+46=94",
+        "Answer": 94.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "It is Buddy's first day at a new school and he is feeling very nervous. His day begins with some bacon and egg prepared by his mother. After eating and preparing, Buddy headed out to catch the school bus from the nearest bus stop. Including Buddy, there were 39 students that got on the bus during the first stop. If 29 more students got on the bus at the second stop,",
+        "Question": "how many students are riding the bus?",
+        "Equation": "39+29=68",
+        "Answer": 68.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Upon arriving at the school, Buddy immediately went to his teacher where he was introduced to all the third grade students in the school. There were 57 girl students and 66 boy students.",
+        "Question": "How many third graders did Buddy meet in the school?",
+        "Equation": "57+66=123",
+        "Answer": 123.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After recess, Buddy changed clothes for gym class. Down at the gym, all the students were divided into two groups. If one group has 34 members and the other has 37,",
+        "Question": "how many students are in Buddy's gym class?",
+        "Equation": "34+37=71",
+        "Answer": 71.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After the final bell rang, Buddy ran to the school bus with his new friends. On his ride home, he counted 36 students sitting on the left side of the bus and 27 sitting on the right.",
+        "Question": "How many students are on the bus ride home?",
+        "Equation": "36+27=63",
+        "Answer": 63.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Helen the Hippo and her friends are preparing for Thanksgiving at Helen's house. Helen baked 435 chocolate chip cookies yesterday and 139 cookies this morning.",
+        "Question": "How many cookies did Helen bake?",
+        "Equation": "435+139=574",
+        "Answer": 574.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Pinky the Pig bought 36 apples while Danny the Duck bought 73.",
+        "Question": "How many apples do they have altogether?",
+        "Equation": "36+73=109",
+        "Answer": 109.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Dylan the Dog prepared 241 hotdog sticks in a brown bag. His father placed 426 more hotdog sticks in the same brown bag.",
+        "Question": "How many hotdog sticks did Dylan and his father place in the brown bag?",
+        "Equation": "241+426=667",
+        "Answer": 667.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Helen's mother brought 101 hotdogs. After a few hours, Dylan's mother arrived with 379 hotdogs.",
+        "Question": "How many hotdogs do they have altogether?",
+        "Equation": "101+379=480",
+        "Answer": 480.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Pinky made 147 miniature pumpkin pies for everyone and Helen made 56.",
+        "Question": "How many miniature pies do they have in total?",
+        "Equation": "147+56=203",
+        "Answer": 203.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "It's spring break at Rosewood High so Rachel and her family decided to take a trip across Europe. Since Rachel has always been fascinated by the French people, they began their tour with a visit to France. During their stay there, Rachel went to the famous Eiffel Tower. If she climbed 567 flights of stairs going up and 325 going down,",
+        "Question": "what is the total number of steps that she took?",
+        "Equation": "567+325=892",
+        "Answer": 892.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After visiting France, Rachel's sister Bella, requested that they see the Buckingham Palace in London. If they travelled 451 miles by land and 150 miles by sea across the English Channel,",
+        "Question": "what is the total distance that they travelled?",
+        "Equation": "451+150=601",
+        "Answer": 601.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The very first thing that Rachel tried when they reached England was the food. If she ate 276 grams of bacon and 147 grams of sausages,",
+        "Question": "how much food did she eat in total?",
+        "Equation": "276+147=423",
+        "Answer": 423.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After eating a hearty meal, they went to see the Buckingham Palace. There, Rachel learned that 583 visitors came to the palace that day. If there were 246 visitors the previous day,",
+        "Question": "how many visited the palace within 2 days?",
+        "Equation": "583+246=829",
+        "Answer": 829.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The last stop of their tour was Italy; there they visited Naples, the place where modern pizza was invented. During their stay there, she ate 598 grams of pizza and her sister ate 354.",
+        "Question": "How many grams of pizza did Rachel and Bella ate there?",
+        "Equation": "598+354=952",
+        "Answer": 952.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Christmas is near. Mr. Anderson, president of Nice People Inc. organized a charity event to share happiness to the less fortunate people. The first thing that he did is to visit an orphanage. There he dressed up as Santa and gave toys to the children. If he gave 134 toy cars to the boys and 269 dolls to the girls,",
+        "Question": "how many toys did he give to all?",
+        "Equation": "134+269=403",
+        "Answer": 403.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Next on his list is the nursing home near his office. There he 472 boxes of vitamins and 288 boxes of supplements.",
+        "Question": "How many boxes of medicine did the nursing home receive from Mr. Anderson?",
+        "Equation": "472+288=760",
+        "Answer": 760.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Feeling good about what he did, Mr. Anderson decided to continue giving to others. He went around the city and gave clothes to homeless people. If he gave 589 shirts and 345 trousers,",
+        "Question": "how many pieces of clothing did he gave out in total?",
+        "Equation": "589+345=934",
+        "Answer": 934.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After giving out clothes, he invited the homeless to the nearest soup kitchen to give them a proper meal. If he fed 219 men and 328 women,",
+        "Question": "how many homeless people was he able to feed?",
+        "Equation": "219+328=547",
+        "Answer": 547.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The last place that he went to was the city animal shelter. There he donated some money to make sure the dogs and cats there are being taken care of. If there are 645 cats and 567 dogs there,",
+        "Question": "how many animals are there in the shelter?",
+        "Equation": "645+567=1212",
+        "Answer": 1212.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Denver the Dog is a famous architect in the city of Animapolis. Together with his engineer friend Wally the Wolf, they decided to build the tallest building ever, the Animus Tower. To make sure the framework of the tower is strongly built, they hired the best builders in town. If they hired 318 beavers and 544 spiders,",
+        "Question": "how many workers in total did they hire to make the framework?",
+        "Equation": "318+544=862",
+        "Answer": 862.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "To carry heavy construction materials, they employed 413 red ants and 487 black ants.",
+        "Question": "How many ants did they employ in total?",
+        "Equation": "413+487=900",
+        "Answer": 900.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After the framework was finished, they asked 239 monkeys and 622 termites to finish the rest of the building.",
+        "Question": "How many workers finished the rest of the construction?",
+        "Equation": "239+622=861",
+        "Answer": 861.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "When the building is done, they wanted to make it shine brightly in the night. To fix that, they commissioned 432 fireflies and 297 glow worms.",
+        "Question": "How many animals worked in the lights?",
+        "Equation": "432+297=729",
+        "Answer": 729.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "It took all of the workers one year to finish the Animus Tower and it was indeed the brightest and tallest structure that can be seen at Animapolis' skyline. If the first half of the building has 145 stories and the second half has 255 stories.",
+        "Question": "How many stories do the Animus Tower has?",
+        "Equation": "145+255=400",
+        "Answer": 400.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "It's New Year's Eve. Benjamin and his family went to New York City to take part in the celebration that is going to take place later that night. Before the evening celebrations, Benjamin wanted to see some of the famous places in NYC first. From the hotel, he walked 234 steps to the nearest restaurant then another 378 steps to Central Park.",
+        "Question": "How many steps did he take to get to Central Park from the hotel?",
+        "Equation": "234+378=612",
+        "Answer": 612.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Next on his list is the famous Empire State Building. There he learned that the building stands 1250 feet to the top floor and the antenna spire is 204 feet.",
+        "Question": "How tall is the Empire State Building?",
+        "Equation": "1250+204=1454",
+        "Answer": 1454.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At the top of the Empire State Building, he saw the Madison Square Garden so he decided to go there as well. It took him 676 steps to get down the building and 315 steps from the building to Madison Square Garden.",
+        "Question": "How many steps did he take to get to Madison Square?",
+        "Equation": "676+315=991",
+        "Answer": 991.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "It's getting dark so he decided to take one last stop. He took a cab to the Metropolitan Museum of Art. If he saw 465 pieces of Asian art and 527 pieces of Egyptian art,",
+        "Question": "how many pieces of art did he see?",
+        "Equation": "465+527=992",
+        "Answer": 992.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After visiting the museum, Benjamin went back to the hotel where he prepared for New Year's Eve at the annual Times Square Ball Drop. To get there, he took 354 steps to the Rockefeller Center then 228 steps to Times Square itself.",
+        "Question": "How many steps did he take before reaching Times Square?",
+        "Equation": "354+228=582",
+        "Answer": 582.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Sofia, president of the school student organization, held a meeting to talk about the food being served at the school cafeteria. The first order of business is to discuss whether the students like the food being served at the school. If 383 students said that they like the food and 431 students said they didn't,",
+        "Question": "how many students participated in the discussion?",
+        "Equation": "383+431=814",
+        "Answer": 814.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After agreeing that the school menu needs to be changed, they had a vote for food suggestions. If 337 voted to add more veggies to the menu and 335 voted to add more meat,",
+        "Question": "how many students voted?",
+        "Equation": "337+335=672",
+        "Answer": 672.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Since the result of the vote was close, it was decided that they will balance the menu with both meat and vegetables. This decision was agreed upon by 154 third grade students and 237 fourth grade students.",
+        "Question": "How many students agreed with the decision?",
+        "Equation": "154+237=391",
+        "Answer": 391.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Because of the decision, Sofia asked the students to suggest specific types of food. If 279 students suggested adding mashed potatoes while 234 suggested adding bacon to the menu,",
+        "Question": "how many students participated in the suggestion of new food items?",
+        "Equation": "279+234=513",
+        "Answer": 513.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After a week, Sofia did a survey to ask if the students liked the new menu. She found out that 235 students liked the new menu while 165 didn't.",
+        "Question": "How many students took part in Sofia's survey?",
+        "Equation": "235+165=400",
+        "Answer": 400.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "For the first main dish, they were asked to cook steak. If the third and second team cooked 240 plates of steak. And the first team cooked 75 plates less than what the second and third team made,",
+        "Question": "how many steaks did they cook altogether?",
+        "Equation": "(240-75)+240=405",
+        "Answer": 405.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Lizzie lives in a very big and polluted city. Being an advocate for the environment, she organized a cleanup drive to help reduce the pollution. They started by cleaning the rivers that flow through and around the city. If her group was able to collect 387 pounds of garbage and another group gathered 39 pounds less than Lizzie's group,",
+        "Question": "how much garbage were the two groups able to gather?",
+        "Equation": "(387-39)+387=735",
+        "Answer": 735.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "If Lizzie's group is composed of 54 people and they have 17 more members than the other group,",
+        "Question": "how many people are working together to clean the city?",
+        "Equation": "(54-17)+54=91",
+        "Answer": 91.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Their neighbors, wanting to welcome them, also brought in some food. If one neighbor brought 75 hotdogs and another neighbor brought 25 less hotdogs than the first one,",
+        "Question": "how many hotdogs were brought by the neighbors in total?",
+        "Equation": "(75-25)+75=125",
+        "Answer": 125.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Before she went home, she bought t-shirts, key chains and handmade bracelets as souvenirs. She spent $347.00 on key chains and bracelets which is $146.00 more than she spent on t-shirts.",
+        "Question": "How much money did she spend on all the souvenirs?",
+        "Equation": "(347-146)+347=548",
+        "Answer": 548.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Being a nature lover, she also gave some money to three forest reserves. If she donated $570.00 to Treetown National Park and The Forest Reserve which is $140.00 more than what she gave to Animal Preservation Park,",
+        "Question": "how much did she donate to all three parks?",
+        "Equation": "(570-140)+570=1000",
+        "Answer": 1000.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "179 birds were sitting in a tree. 38 more birds flew up to the tree.",
+        "Question": "How many birds were there altogether in the tree?",
+        "Equation": "179+38=217",
+        "Answer": 217.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Cindy's mom baked 1215 cookies. Paul's dad baked 1112 cookies. They both brought them to school for a party.",
+        "Question": "How many cookies did they have altogether?",
+        "Equation": "1215+1112=2327",
+        "Answer": 2327.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There were 27 boys and 35 girls on the playground at recess.",
+        "Question": "How many children were on the playground at recess?",
+        "Equation": "27+35=62",
+        "Answer": 62.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Paul had 28 strawberries in his basket. He picked 35 more strawberries.",
+        "Question": "How many strawberries did he have then?",
+        "Equation": "28+35=63",
+        "Answer": 63.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Beth has 4 packs of crayons. Each pack has 10 crayons in it. She also has 6 extra crayons.",
+        "Question": "How many crayons does Beth have altogether?",
+        "Equation": "(4*10)+6=46",
+        "Answer": 46.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Megan had 217 markers. Robert gave her 109 more markers.",
+        "Question": "How many markers does Megan have altogether?",
+        "Equation": "217+109=326",
+        "Answer": 326.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Connie had some marbles. She gave 183 to Juan. Now she has 593 marbles left.",
+        "Question": "How many did she have to start with?",
+        "Equation": "593+183=776",
+        "Answer": 776.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Connie has 323 marbles. Juan has 175 more marbles than Connie.",
+        "Question": "How many marbles does Juan have?",
+        "Equation": "323+175=498",
+        "Answer": 498.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "One stamp costs $0.34. Two stamps cost $0.68. Three stamps cost $1.02. If the cost of each stamp remains the same,",
+        "Question": "how much would 4 stamps cost?",
+        "Equation": "1.02+0.34=1.36",
+        "Answer": 136.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The town of Milburg has 5,256 grown-ups and 2,987 children.",
+        "Question": "How many people live in Milburg?",
+        "Equation": "5256+2987=8243",
+        "Answer": 8243.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Hilt went to a concert. A total of 65,899 people attended the concert. The next week, she went to a second concert, which had 119 more people in attendance.",
+        "Question": "How many people were at the second concert?",
+        "Equation": "65899+119=66018",
+        "Answer": 66018.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Lucy has an aquarium with 212 fish. She wants to buy 68 more fish.",
+        "Question": "How many fish would Lucy have then?",
+        "Equation": "212+68=280",
+        "Answer": 280.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Rupert and Ronald aced their math test. So their mother bought for them a wonderful trampoline yesterday. Ronald jumped 157 times on the trampoline. Rupert jumped 86 more times than Ronald.",
+        "Question": "How many times did they jump altogether?",
+        "Equation": "(157+86)+157=400",
+        "Answer": 400.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Harry Hound had a terrible earache yesterday. When I peered into his ears yesterday, I found 36 frisky fleas having a party in his right ear and 85 baby fleas sleeping peacefully in his left ear. I cleaned out Harry Hound's ears.",
+        "Question": "How many fleas perished?",
+        "Equation": "36+85=121",
+        "Answer": 121.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Maggie bought 9 books about plants and 1 book about fish. She also bought 10 science magazines. Each book cost $15 and each magazine cost $2.",
+        "Question": "How much did Maggie spend in all?",
+        "Equation": "((9+1)*15)+(10*2)=170",
+        "Answer": 170.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A group of 4 children and 3 adults are going to the zoo. Child tickets cost $3, and adult tickets cost $6.",
+        "Question": "How much will the zoo tickets cost in all?",
+        "Equation": "(4*3)+(3*6)=30",
+        "Answer": 30.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A group of science students went on a field trip. They took 2 vans and 3 buses. There were 8 people in each van and 20 people in each bus.",
+        "Question": "How many people went on the field trip?",
+        "Equation": "(8*2)+(3*20)=76",
+        "Answer": 76.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Hilt had $4,000 in her savings account. She earned 10% interest each year. If she left that money in the account for one year,",
+        "Question": "how much will she have in the account at the end of that year?",
+        "Equation": "4000+(4000*0.1*1)=4400",
+        "Answer": 4400.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Kendra took a road trip. In the afternoon, she saw 4 minivans like hers. Later, in the evening, she saw one more minivan like hers.",
+        "Question": "How many minivans like hers did she see in all?",
+        "Equation": "1+4=5",
+        "Answer": 5.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are 4 boys and 5 girls in a preschool daycare.",
+        "Question": "How many children are there in the daycare?",
+        "Equation": "4+5=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The Vance family walked over to the post office. They bought 2 rooster stamps and 2 daffodil stamps.",
+        "Question": "How many stamps did they buy in all?",
+        "Equation": "2+2=4",
+        "Answer": 4.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are 7 basketballs at a school. If the school buys another 3 basketballs,",
+        "Question": "how many basketballs will the school have?",
+        "Equation": "7+3=10",
+        "Answer": 10.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Garrett went shopping for snack supplies and bought 6 oatmeal raisin granola bars and 8 peanut granola bars.",
+        "Question": "How many granola bars did he buy in all?",
+        "Equation": "6+8=14",
+        "Answer": 14.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jack received 8 emails in the morning and 2 emails in the afternoon.",
+        "Question": "How many emails did Jack receive in the day?",
+        "Equation": "8+2=10",
+        "Answer": 10.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Teacher buys 4 black pens and 4 blue pens for students as awards.",
+        "Question": "How many pens does the teacher buy altogether?",
+        "Equation": "4+4=8",
+        "Answer": 8.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A chess club has 3 members. If 4 new members are enrolled,",
+        "Question": "how many total members are there in the chess club?",
+        "Equation": "3+4=7",
+        "Answer": 7.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are 5 roses and 5 carnations in a vase.",
+        "Question": "How many flowers are there in the vase in all?",
+        "Equation": "5+5=10",
+        "Answer": 10.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Every day, Ryan spends 4 hours on learning English and 3 hours on learning Chinese.",
+        "Question": "How many hours does he spend on learning English and Chinese in all?",
+        "Equation": "4+3=7",
+        "Answer": 7.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A train from London to Paris sets out every 50 min. The second train from London to Berlin sets out every 25 min. The train from London to Dublin sets out every 40 min. If the three trains set out together at 8:10 from London,",
+        "Question": "at what time will they set out together again?",
+        "Equation": "(8*60 (min/hour) + 10) + LCM[50,25,40] + 0 = 690 (min); 690/60 (min/hour)=11 r30; hh:mm=11:30",
+        "Answer": 1130.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Tony packs a bag of fruits every 10 min, Sam packs a bag of fruits every 8 min and Sarah packs a bag of fruits every 12 min. If they start packing three bags of fruits at the same time at 12:55,",
+        "Question": "at what time will they start packing at the same time again?",
+        "Equation": "(12*60 (min/hour) + 55) + LCM[10,8,12] + 0 = 895 (min); 895/60 (min/hour)=14 r55; hh:mm=14:55",
+        "Answer": 1455.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are three clocks in a shop. The first clock chimes every 5 minutes, the second clock chimes every 10 minutes and the last clock chimes every 15 minutes. If the last time the three clocks chime together was at 19:43,",
+        "Question": "at what time will the three clocks chime together again?",
+        "Equation": "(19*60 (min/hour) + 43) + LCM[5,10,15] + 0 = 1213 (min); 1213/60 (min/hour)=20 r13; hh:mm=20:13",
+        "Answer": 2013.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The buses from stop A to stop B set out every 20 minutes. The buses from stop A to stop C set out every 15 minutes. The buses from stop A to stop D set out every 10 minutes. If three buses for stop B, C and D set out together at 2:45,",
+        "Question": "at what time will another three buses for the three stops set out together again?",
+        "Equation": "(2*60 (min/hour) + 45) + LCM[20,15,10] + 0 = 225 (min); 225/60 (min/hour)=3 r45; hh:mm=3:45",
+        "Answer": 345.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are three bosses in a computer game. Boss A appears every 1 hour. Boss B appears every 30 minutes. Boss C appears every 40 minutes. If the three bosses appear together at 10:10,",
+        "Question": "at what time will the three bosses appear together again in the game?",
+        "Equation": "(10*60 (min/hour) + 10) + LCM[60,30,40] + 0 = 730 (min); 730/60 (min/hour)=12 r10; hh:mm=12:10",
+        "Answer": 1210.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Three workers, A, B, and C are working in a bicycle factory. A finishes assembling a bike every 1 h 30 min. B finishes assembling a bike every 2 h. C finishes assembling a bike every 1 h. If they started assembling three bikes at the same time at 8:10,",
+        "Question": "at what time would they start assembling at the same time again?",
+        "Equation": "(8*60 (min/hour) + 10) + LCM[90,120,60] + 0 = 850 (min); 850/60 (min/hour)=14 r10; hh:mm=14:10",
+        "Answer": 1410.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Three cleaners, A, B, and C are cleaning the windows of a building. Person A cleans a window every 8 min, person B every 12 min and person C every 14 min. If they start cleaning three windows at the same time at 14:15,",
+        "Question": "at what time will start cleaning windows at the same time again?",
+        "Equation": "(14*60 (min/hour) + 15) + LCM[8,12,14] + 0 = 1023 (min); 1023/60 (min/hour)=17 r3; hh:mm=17:03",
+        "Answer": 1703.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Three workers are working to cut the trees. Worker X can cut a tree every 16 min, Worker Y every 32 min and Worker C every 24 min. If they start cutting three trees at the same time at 7:48,",
+        "Question": "at what time will they start cutting trees at the same time again?",
+        "Equation": "(7*60 (min/hour) + 48) + LCM[16,32,24] + 0 = 564 (min); 564/60 (min/hour)=9 r24; hh:mm=9:24",
+        "Answer": 924.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Three carpenters are installing some doors for a building. Carpenter A installs a door every 40 min, Carpenter B installs a door every 1 h 20 min and Carpenter C installs a door every 1 h 40 min. If they start installing three doors at the same time at 9:15,",
+        "Question": "at what time will they install doors at the same again?",
+        "Equation": "(9*60 (min/hour) + 15) + LCM[40,80,100] + 0 = 955 (min); 955/60 (min/hour)=15 r55; hh:mm=15:55",
+        "Answer": 1555.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Cups are sold 5 to a package and plates are sold 10 to a package. If you want to have the same number of each item for a party,",
+        "Question": "what is the least number of packages of each you need to buy?",
+        "Equation": "LCM[5,10]=10; (10/5)+(10/10)=3",
+        "Answer": 3.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jordon has a different kind of number machine. Her machine doubles the number and adds 3 more. So when Jordon put in 25, the number 53 came out of the machine. Jordon put in the number 16.",
+        "Question": "What number do you think came out of her machine?",
+        "Equation": "(16*2)+3=35",
+        "Answer": 35.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Ethan and Frank went rowing. Ethan rowed the boat from 10:50 to 11:15. Frank rowed the boat twice as long.",
+        "Question": "How long did the boys row the boat altogether?",
+        "Equation": "(11*60 (min/hour)+15)-(10*60 (min/hour)+50)+(((11*60 (min/hour)+15)-(10*60 (min/hour)+50))*2)=75 (min)",
+        "Answer": 75.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Cindy and Dan have the same number of stickers. Cindy used 15 of her stickers. Dan bought 18 more stickers.",
+        "Question": "How many more stickers did Dan have than Cindy then?",
+        "Equation": "15+18=33",
+        "Answer": 33.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Ed had 22 more marbles than Doug. Doug lost 8 of his marbles at the playground.",
+        "Question": "How many more marble did Ed have than Doug then?",
+        "Equation": "22+8=30",
+        "Answer": 30.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Three paper bags contain a total of 24 apples. The first and second bags contain a total of 11 apples. The second and third bags contain a total of 18 apples.",
+        "Question": "How many apples are in the first and third bags together?",
+        "Equation": "(24-11)+(24-18)=19",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "My ice cream shop was really busy today. It was 98 degrees and we sold 67 ice cream cones. We sold 15 more milkshakes than ice cream cones.",
+        "Question": "How many milkshakes were sold?",
+        "Equation": "67+15=82",
+        "Answer": 82.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Todd had 85 cents in his pocket. He bought a candy bar for 14 cents. He bought a box of cookies for 39 cents.",
+        "Question": "How much money did Todd spend altogether?",
+        "Equation": "14+39=53",
+        "Answer": 53.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The music room has 27 violins. There are also 15 flutes. 18 students are in the school band.",
+        "Question": "How many instruments are in the music room?",
+        "Equation": "27+15=42",
+        "Answer": 42.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "One zoo guide spoke to a group of 19 children. Another guide spoke to a group of 25 children. There are 22 guides at the zoo.",
+        "Question": "How many children did the zoo guides speak to?",
+        "Equation": "19+25=44",
+        "Answer": 44.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Molly swam 45 meters on Saturday. She swam 28 meters on Sunday. The pool is 25 meters long.",
+        "Question": "How many meters did Molly swim in all?",
+        "Equation": "45+28=73",
+        "Answer": 73.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jake read 37 pages of his new book. It has 8 chapters and 95 pages. Jake read 25 more pages later that day.",
+        "Question": "How many pages has he read in all?",
+        "Equation": "37+25=62",
+        "Answer": 62.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Adam has 29 marbles in his collection. Mary has 11 fewer marbles than Adam. Greg has 14 more marbles than Adam.",
+        "Question": "How many marbles does Greg have?",
+        "Equation": "29+14=43",
+        "Answer": 43.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Martin works at the Hungry Hippo. He sells 48 hamburgers before 6 o'clock. He sells 28 more hamburgers than that after 6 o'clock. He works 24 hours each week.",
+        "Question": "How many hamburgers does Martin sell after 6 o'clock?",
+        "Equation": "48+28=76",
+        "Answer": 76.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Zoe is on vacation. She has already taken 28 pictures. She has enough film left to take 32 more pictures. Zoe took 16 more pictures at the dolphin show.",
+        "Question": "How many pictures has Zoe taken altogether?",
+        "Equation": "28+16=44",
+        "Answer": 44.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The Sweet Shop gets a new candy shipment every 35 days. There are 25 cases of chocolate bars. There are 55 cases of lollipops.",
+        "Question": "How many cases of candy altogether?",
+        "Equation": "25+55=80",
+        "Answer": 80.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are 95 pretzels in a bowl. John ate 28 pretzels. Alan ate 9 fewer pretzels than John. Marcus ate 12 more pretzels than John.",
+        "Question": "How many pretzels did Marcus eat?",
+        "Equation": "28+12=40",
+        "Answer": 40.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mrs. Randall has taught third grade for 18 years. She has 26 students this year. She also taught second grade for 8 years.",
+        "Question": "How many years has Mrs. Randall been teaching?",
+        "Equation": "18+8=26",
+        "Answer": 26.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jake has 36 comic books. His brother has 15 more comic books than Jake.",
+        "Question": "How many comic books do they have altogether?",
+        "Equation": "36+(36+15)=87",
+        "Answer": 87.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Elizabeth studied 25 minutes for her science test. She studied 35 minutes for her math test.",
+        "Question": "How long did Elizabeth study altogether?",
+        "Equation": "25+35=60",
+        "Answer": 60.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Zachary did 47 push-ups in gym class today. David did 15 more push-ups than Zachary.",
+        "Question": "How many push-ups did David do?",
+        "Equation": "47+15=62",
+        "Answer": 62.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Rachel baked some brownies. She brought 16 brownies to school that day. She left 24 brownies at home.",
+        "Question": "How many brownies did Rachel bake?",
+        "Equation": "16+24=40",
+        "Answer": 40.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Kim sold 54 boxes of Girl Scout cookies. Jennifer sold 17 more boxes than Kim.",
+        "Question": "How many boxes of cookies did Jennifer sell?",
+        "Equation": "54+17=71",
+        "Answer": 71.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mikayla has a huge collection of music CDs. She gave 15 CDs to her friend. Now she has 78 CDs left.",
+        "Question": "How many CDs were in Mikayla's collection at first?",
+        "Equation": "15+78=93",
+        "Answer": 93.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Vincent has learned the words to 56 songs. He learned 18 more songs at summer camp.",
+        "Question": "How many songs does Vincent know now?",
+        "Equation": "56+18=74",
+        "Answer": 74.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mario made 18 posters to help advertise the fair. Samantha made 15 more posters than Mario.",
+        "Question": "How many posters did they make altogether?",
+        "Equation": "18+(18+15)=51",
+        "Answer": 51.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The Greene family went to the amusement park. They spent $45 on admission tickets. They spent $13 less than that on food.",
+        "Question": "How much did the Greene family spend in all?",
+        "Equation": "45+(45-13)=77",
+        "Answer": 77.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Hannah is a professional skater. She practices 8 hours every weekend. She practices 17 more hours than that during the week.",
+        "Question": "How many hours does Hannah practice each week?",
+        "Equation": "8+(8+17)=33",
+        "Answer": 33.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are 42 boys in the computer club. There are 9 fewer girls than boys in the club.",
+        "Question": "How many children are in the computer club altogether?",
+        "Equation": "42+(42-9)=75",
+        "Answer": 75.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Joey checked his pockets for money. He found 17 cents in his pants pocket. He found 24 cents more than that in his jacket pocket.",
+        "Question": "How much money did Joey find altogether?",
+        "Equation": "17+(24+17)=58",
+        "Answer": 58.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Cheryl counted 16 lemons. Lori bought 28 more lemons.",
+        "Question": "How many lemons do the girls have altogether?",
+        "Equation": "16+28=44",
+        "Answer": 44.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Liz and Jenn had a book sale. They sold 27 detective books and 15 puzzle books.",
+        "Question": "How many books did they sell altogether?",
+        "Equation": "27+15=42",
+        "Answer": 42.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The Book Nook sold 27 computer books last week. The sold 15 more cook books than computer books.",
+        "Question": "How many cook books did the Book Nook sell?",
+        "Equation": "27+15=42",
+        "Answer": 42.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Terry and Grace are building a gear machine. Terry used 37 building pieces. Grace used 45 pieces.",
+        "Question": "How many building pieces did they use altogether?",
+        "Equation": "37+45=82",
+        "Answer": 82.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "35 people visited the Statue of Liberty in the morning. 56 more people visited in the afternoon than in the morning.",
+        "Question": "How many people visited the Statue of Liberty in the afternoon?",
+        "Equation": "35+56=91",
+        "Answer": 91.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Erin and Dana finished a two day bike-a-thon. They rode 37 miles the first day The rode 55 miles the second day.",
+        "Question": "How many miles did they ride altogether?",
+        "Equation": "37+55=92",
+        "Answer": 92.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Paul and Vinnie deliver newspapers. Paul made $14 in tips. Vinnie made $16 more than Paul.",
+        "Question": "How much did Vinnie make?",
+        "Equation": "14+16=30",
+        "Answer": 30.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "35 campers went rowing in the morning. 27 campers went rowing in the afternoon.",
+        "Question": "How many campers went rowing in all?",
+        "Equation": "35+27=62",
+        "Answer": 62.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Frannie and Meg are in a jump rope contest. Frannie jumped 53 times without missing. She jumped 18 fewer times than Meg.",
+        "Question": "How many times did Meg jump?",
+        "Equation": "53+18=71",
+        "Answer": 71.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The difference between two numbers is 24. The smaller number is 46.",
+        "Question": "What is the larger number?",
+        "Equation": "46+24=70",
+        "Answer": 70.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A book has two chapters. The first chapter is 48 pages long. The second chapter is 46 pages long.",
+        "Question": "How many pages does the book have altogether?",
+        "Equation": "48+46=94",
+        "Answer": 94.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 25 inches. The frog jumped 15 inches farther than the grasshopper.",
+        "Question": "How far did the frog jump?",
+        "Equation": "25+15=40",
+        "Answer": 40.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are 22 bicycles and 3 cars in the garage at Gordon's apartment building.",
+        "Question": "How many wheels are there in the garage?",
+        "Equation": "(22*2)+(3*4)=56",
+        "Answer": 56.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There are 16 bicycles and 7 tricycles in the storage area at Braden's apartment building. Each bicycle has 2 wheels and each tricycle has 3 wheels.",
+        "Question": "How many wheels are there in all?",
+        "Equation": "(2*16)+(3*7)=53",
+        "Answer": 53.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Kira has $1.20 in quarters and dimes. She has minimized coins altogether.",
+        "Question": "How many coins does she have?",
+        "Equation": "1.2 (dollar) * 100 (cent/dollar)/25 (cent/quarter)=4 r20; 20 (cent)/10 (cent/dime)=2 r0; 4+2=6 (coin)",
+        "Answer": 6.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A worker at a medical lab is studying blood samples. The first sample contained 1,410 blood cells. The second one contained 6,908 more than the first.",
+        "Question": "About how many blood cells were in the second sample?",
+        "Equation": "1410+6908=8318",
+        "Answer": 8318.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "During summer break, 564,237 kids from Lawrence County go to camp, and the other 495,718 kids stay home.",
+        "Question": "About how many kids are in Lawrence County?",
+        "Equation": "564237+495718=1059955",
+        "Answer": 1059955.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There is a snail problem in Centerville. People work together to get rid 3,482 snails, but 8,278 of them remain.",
+        "Question": "About how many snails were originally in Centerville?",
+        "Equation": "3482+8278=11760",
+        "Answer": 11760.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Recently, the postal service sold stamps with famous people pictured on them. They sold 578,833 color stamps, as well as 523,776 black-and-white ones.",
+        "Question": "About how many stamps did they sell?",
+        "Equation": "578833+523776=1102609",
+        "Answer": 1102609.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A bee flew 840 cm and landed on a flower to collect some pollen. Then the bee flew another 330 cm to get back to her hive.",
+        "Question": "How many meters did the bee travel?",
+        "Equation": "840 (cm) + 330 (cm) = 1170 (cm); 1170/100 (cm/m) = 11.7 (m)",
+        "Answer": 117.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "James has 14,500 g of sand in his sandbox. He brings home another 7,400 g of sand from the beach to add to his sandbox.",
+        "Question": "How many kilograms of sand does James have in his sandbox now?",
+        "Equation": "14500 (g) + 7400 (g) = 21900 (g); 21900/1000 (g/kg) = 21.9 (kg)",
+        "Answer": 219.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A restaurant charges 4% service charge. If your order amounted to 450,",
+        "Question": "how much did you pay?",
+        "Equation": "450+(450*0.04)=468",
+        "Answer": 468.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mila's father has 2 jobs. 1st job pays $375 more than the 2nd job.",
+        "Question": "How much does he get from the 1st job if he gets per week a total of $3,875?",
+        "Equation": "((3875-375)/2)+375=2125",
+        "Answer": 2125.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After paying $2.30 for a drink, Bryon has $17.15.",
+        "Question": "How much money did he have before buying the drink?",
+        "Equation": "2.3+17.15=19.45",
+        "Answer": 1945.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "After paying 6 dollars for the pie, Sandy has 57 dollars left.",
+        "Question": "How much money did she have before buying the pie ?",
+        "Equation": "6+57=63",
+        "Answer": 63.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A cafeteria sold 49 cartons of regular flavored milk. If the ratio of regular milk sold to chocolate milk sold was 7:2,",
+        "Question": "what is the combined amount of chocolate and regular milk sold?",
+        "Equation": "7:2=49:14; 49+14=63",
+        "Answer": 63.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Will was drawing super heroes on a sheet of scrap paper. He drew two heroes on the front and seven heroes on the back.",
+        "Question": "How many heroes did he draw total?",
+        "Equation": "2+7=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Ned mowed his lawn six times in the spring and five times in the summer.",
+        "Question": "How many times did he mow total?",
+        "Equation": "6+5=11",
+        "Answer": 11.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Oliver bought eight boxes of candy. Later he bought six more boxes.",
+        "Question": "How many boxes did he have totaled?",
+        "Equation": "8+6=14",
+        "Answer": 14.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Tiffany was collecting cans for recycling. On Monday she had four bags of cans. The next day she found eight more bags worth.",
+        "Question": "How many bags did she have totaled?",
+        "Equation": "4+8=12",
+        "Answer": 12.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A chef used five potatoes to make fries for the lunch crowd. Later he used another two potatoes for the dinner crowd.",
+        "Question": "How many potatoes did he use total?",
+        "Equation": "5+2=7",
+        "Answer": 7.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Dave was making ice using ice trays. He originally had two ice cubes. But made seven more cubes.",
+        "Question": "How many ice cubes did he have totaled?",
+        "Equation": "2+7=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Tiffany was buying sodas for her and her friends. They needed nine sodas, but Tiffany bought seven extra.",
+        "Question": "How many did she buy?",
+        "Equation": "9+7=16",
+        "Answer": 16.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Maria was buying DVDs of her old favorite TV series. She bought eight DVDs at the store and she bought two online.",
+        "Question": "How many DVDs did she buy total?",
+        "Equation": "8+2=10",
+        "Answer": 10.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "For a potluck lunch Bianca brought nine bottles of soda. If someone else had already brought eight sodas,",
+        "Question": "how many were there total?",
+        "Equation": "9+8=17",
+        "Answer": 17.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Tiffany was sending out birthday invitations to her friends. She sent out nine on Monday and eight on Tuesday.",
+        "Question": "How many did she send total?",
+        "Equation": "9+8=17",
+        "Answer": 17.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At the school Halloween party 2 girls and 9 boys dressed as ghosts.",
+        "Question": "How many people total dressed as a ghost?",
+        "Equation": "2+9=11",
+        "Answer": 11.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Amy bought 7 pencils at the school store, but she already had 3 pencils.",
+        "Question": "How many pencils does she have totaled?",
+        "Equation": "7+3=10",
+        "Answer": 10.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Emily owned 6 songs by her favorite artists. Later on she bought 7 more songs.",
+        "Question": "How many songs did she have totaled?",
+        "Equation": "6+7=13",
+        "Answer": 13.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "For Paige's birthday she received 2 dollars from her friends and 3 dollars from her relatives.",
+        "Question": "How much money did she get for her birthday?",
+        "Equation": "2+3=5",
+        "Answer": 5.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Cody was helping his mom wash clothes. They washed 4 short sleeve shirts and 5 long sleeve shirts.",
+        "Question": "How many shirts did they wash total?",
+        "Equation": "4+5=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Amy's dad was taking everyone out to eat for her birthday. They spent 5 dollars on the adults and 5 dollars on the kids.",
+        "Question": "How much did it cost for everyone?",
+        "Equation": "5+5=10",
+        "Answer": 10.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A mailman had to give 6 pieces of junk mail and 5 magazines to a house.",
+        "Question": "How many pieces of mail did he deliver total?",
+        "Equation": "6+5=11",
+        "Answer": 11.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A group of 4 friends were playing video games. Later 3 more friends came over.",
+        "Question": "How many people were there total?",
+        "Equation": "4+3=7",
+        "Answer": 7.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At the fair Dave rode 4 rides the first day he went and 3 rides the second day.",
+        "Question": "How many times did he ride total?",
+        "Equation": "4+3=7",
+        "Answer": 7.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Debby was placing her spare change into stacks. One stack had 4 coins and the other had 8.",
+        "Question": "How many coins did she have total?",
+        "Equation": "4+8=12",
+        "Answer": 12.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Bianca was practicing for a marathon. To prepare she ran 8 miles the first day and 4 miles the next day.",
+        "Question": "How many miles did Bianca run altogether?",
+        "Equation": "8+4=12",
+        "Answer": 12.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jerry had 8 action figures on a shelf in his room. Later he added 2 more figures to the shelf.",
+        "Question": "How many action figures were on his shelf total?",
+        "Equation": "8+2=10",
+        "Answer": 10.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Sarah bought 8 new shirts for school. If she already had 9 shirts,",
+        "Question": "how many did she own total?",
+        "Equation": "8+9=17",
+        "Answer": 17.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Ned was buying books about astronomy. He bought 8 books about the planets and 4 about the space program.",
+        "Question": "How many books did he buy total?",
+        "Equation": "8+4=12",
+        "Answer": 12.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A delivery driver had to make 3 stops on his route. After he finished those deliveries he made 4 more stops.",
+        "Question": "How many stops did he make total?",
+        "Equation": "3+4=7",
+        "Answer": 7.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Rachel had to complete 9 pages of math homework and 2 pages of reading homework.",
+        "Question": "How many pages did she have to complete total?",
+        "Equation": "9+2=11",
+        "Answer": 11.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Amy was buying different soups. She bought 6 cans of chicken soup and 3 cans of tomato soup.",
+        "Question": "How many soups did she buy?",
+        "Equation": "6+3=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Adam was reading through his favorite book series. The first week he read 5 different books. The next week he read 8 books.",
+        "Question": "How many books did he read total?",
+        "Equation": "5+8=13",
+        "Answer": 13.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Haley's mom was buying extra school supplies for Haley and her sister. If she bought 2 reams of paper for Haley and 3 reams for her sister,",
+        "Question": "how many did she buy total?",
+        "Equation": "2+3=5",
+        "Answer": 5.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "An architect was building his two story house. On the first floor the house had 6 bedrooms and the second floor had 4 bedrooms.",
+        "Question": "How many bedrooms does the house have totaled?",
+        "Equation": "6+4=10",
+        "Answer": 10.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A designer was buying furniture for her new house. She bought 3 chairs for the living room and 6 for her kitchen.",
+        "Question": "How many chairs did she buy total?",
+        "Equation": "3+6=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A pet store took ten birds out of a cage and had nine still left inside.",
+        "Question": "How many birds were in the cage to start with? ",
+        "Equation": "10+9=19",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Rachel picked three apples from her tree. Now the tree has four apples still on it.",
+        "Question": "How many apples did the tree have to begin with? ",
+        "Equation": "3+4=7",
+        "Answer": 7.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The book fair sold four posters. Now they have two posters left.",
+        "Question": "How many posters did they have to begin with? ",
+        "Equation": "4+2=6",
+        "Answer": 6.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Ned ordered some pizzas for a party. During the party four were eaten. Now he has seven left.",
+        "Question": "How many pizzas did Ned order for the party? ",
+        "Equation": "4+7=11",
+        "Answer": 11.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A baker sold twelve cakes. Now he has three cakes.",
+        "Question": "How many cakes did the baker have to start with? ",
+        "Equation": "12+3=15",
+        "Answer": 15.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Maria took sixteen fish out of her fish tank. Now there are three fish in the tank.",
+        "Question": "How many fish were in the tank to start with? ",
+        "Equation": "16+3=19",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Cody had a bag of marbles. Later he gave five to his brother. Now Cody has seven marbles.",
+        "Question": "How many marbles did Cody have to start with? ",
+        "Equation": "5+7=12",
+        "Answer": 12.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A chef used fifteen apples to make a pie. Now he has four apples left.",
+        "Question": "How many apples did he have before he made the pie? ",
+        "Equation": "15+4=19",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Megan gave seven acorns to her sister. Now Megan has nine acorns left.",
+        "Question": "How many acorns did Megan have in the beginning?",
+        "Equation": "7+9=16",
+        "Answer": 16.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Edward spent $13. Now he has $6.",
+        "Question": "How much did Edward have before he spent his money? ",
+        "Equation": "13+6=19",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Rachel took two dollars from her piggy bank. Now she has three dollars in her piggy bank.",
+        "Question": "How much money was originally in there? ",
+        "Equation": "2+3=5",
+        "Answer": 5.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Ned gave away thirteen of his video games to a friend. Now Ned has six games.",
+        "Question": "How many games did Ned have before he gave the games away? ",
+        "Equation": "13+6=19",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A group was sitting at a lunch table. After finishing, six people left and there were five left at the table.",
+        "Question": "How many people were at the table to start with? ",
+        "Equation": "6+5=11",
+        "Answer": 11.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Isabel had some candy. She gave her friend twenty-seven pieces and had sixty-one left.",
+        "Question": "How many pieces did she have to start with? ",
+        "Equation": "27+61=88",
+        "Answer": 88.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At the arcade Dave spent forty-three tickets on stuffed tiger. Then he had fifty-five left.",
+        "Question": "How many tickets did Dave have to start with? ",
+        "Equation": "43+55=98",
+        "Answer": 98.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Adam had some quarters. He spent nine of them at the arcade and had seventy-nine left over.",
+        "Question": "How many quarters did he have to start with? ",
+        "Equation": "9+79=88",
+        "Answer": 88.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At a bus stop forty-seven people got off the bus. Now there were forty-three people on the bus.",
+        "Question": "How many people were on the bus before? ",
+        "Equation": "47+43=90",
+        "Answer": 90.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jerry had caught some butterflies. He let eleven go and now he has eighty-two left.",
+        "Question": "How many did he originally have? ",
+        "Equation": "11+82=93",
+        "Answer": 93.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "John bought some cupcakes for a party. During the party eleven were eaten. Now he has twenty-one left.",
+        "Question": "How many cupcakes did John get for the party? ",
+        "Equation": "11+21=32",
+        "Answer": 32.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "For a birthday party a clown gave away six balloons. Now he has fifty-five balloons left.",
+        "Question": "How many balloons did the clown have to start with? ",
+        "Equation": "6+55=61",
+        "Answer": 61.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A chef used thirty-nine cherries to make a pie. Now he has fifty-eight cherries left.",
+        "Question": "How many cherries did he have before he made the pie? ",
+        "Equation": "39+58=97",
+        "Answer": 97.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "While playing a video game Ned lost thirteen lives. Now he has seventy lives.",
+        "Question": "How many lives did Ned have at the start? ",
+        "Equation": "13+70=83",
+        "Answer": 83.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Will was picking up sticks from his yard. He picked up thirty-eight but there were still sixty-one left.",
+        "Question": "How many sticks were originally in the yard? ",
+        "Equation": "38+61=99",
+        "Answer": 99.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Paige used three of her pencils. Now she has ninety-one pencils.",
+        "Question": "How many pencils did Paige have to begin with? ",
+        "Equation": "3+91=94",
+        "Answer": 94.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Olivia gave her cat two cheese cubes. Now Olivia has ninety-eight cheese cubes left.",
+        "Question": "How many cheese cubes did Olivia have originally?",
+        "Equation": "2+98=100",
+        "Answer": 100.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "The traffic lights at two road junctions change after every 72 seconds and 108 seconds respectively. If they change simultaneously at 9 a.m.,",
+        "Question": "at what time will they change simultaneously again?",
+        "Equation": "LCM[72,108]=216 seconds; 9*60*60=32400 seconds; (32400+216)/60/60=9 r216; 216/60=3 r36; hh:mm:ss=9:03:36 a.m.",
+        "Answer": 90336.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A bell rings every 12 seconds. A second bell rings every 15 seconds. If both the bells ring at the same time at 6 p.m.,",
+        "Question": "at what time will they both ring together at the same time?",
+        "Equation": "LCM[12,15]=60 seconds; 6*60*60=21600 seconds; (21600+60)/60/60=6 r60; 60/60=1 r0; hh:mm:ss=6:01:00 p.m.",
+        "Answer": 60100.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A chef only had 3 apples so he ordered 2 more bags. If each bag has 9 apples,",
+        "Question": "how many apples does he have total?",
+        "Equation": "2*9+3=21 ",
+        "Answer": 21.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Edward earned 8 dollars for every lawn he mowed. If he mowed 5 lawns and he already had 7 dollars saved up,",
+        "Question": "how much money does he have total?",
+        "Equation": "5*8+7=47 ",
+        "Answer": 47.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "It takes 4 ounces of cheese to make a burrito and 9 ounces for a taco. If you wanted 7 burritos and 1 taco,",
+        "Question": "how many ounces of cheese would you need?",
+        "Equation": "(7*4)+(1*9)=37 ",
+        "Answer": 37.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At a comic convention Janet wanted to buy 8 comics, but each one costs 4 dollars, plus it costs 2 to even get in.",
+        "Question": "How much money should she take with her so she can get in and buy what she wants?",
+        "Equation": "8*4+2=34 ",
+        "Answer": 34.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Olivia had 7 math problems to complete. She spent about 4 minutes on each problem and then she spent 3 minutes checking her answers.",
+        "Question": "How many minutes did she spend total?",
+        "Equation": "7*4+3=31 ",
+        "Answer": 31.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Before lunch a waitress had already earned $5 in tips. After lunch she had 7 customers and each customer gave her a 2 dollar tip.",
+        "Question": "How much money did she earn total?",
+        "Equation": "7*2+5=19 ",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At band practice there were 4 rows of students with 8 students in each row and then another 9 students in the back.",
+        "Question": "How many students were there total?",
+        "Equation": "4*8+9=41 ",
+        "Answer": 41.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A lawn care company bought 4 lawnmower blade for $8 each. They also bought a spool of weed eater string for $7.",
+        "Question": "How much money did they spend on supplies?",
+        "Equation": "4*8+7=39 ",
+        "Answer": 39.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "While playing a game Frank defeated 6 enemies. Each enemy earned him 9 points. Then he got another 8 points for completing the level.",
+        "Question": "How many points did he earn total?",
+        "Equation": "6*9+8=62 ",
+        "Answer": 62.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Wendy's brother had 6 pieces of candy. Wendy had 2 boxes with 3 pieces each.",
+        "Question": "How many pieces did they have total?",
+        "Equation": "2*3+6=12 ",
+        "Answer": 12.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A baker made 2 batches of chocolate chip cookies. Each batch had 3 cookies in it. Then he made an additional 4 oatmeal cookies just in case someone didn't want chocolate chip.",
+        "Question": "How many cookies did he bake total?",
+        "Equation": "2*3+4=10 ",
+        "Answer": 10.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A music teacher had 2 recorders, but she decided to buy 9 more boxes with each box having 3 recorders in it.",
+        "Question": "How many recorders did she have after buying the 9 boxes?",
+        "Equation": "9*3+2=29 ",
+        "Answer": 29.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A florist needed to use 2 pounds of fertilizer for 9 days and then on the final day use the normal amount plus another 4 pounds.",
+        "Question": "How many pounds of fertilizer will she use all together?",
+        "Equation": "2*9+4=22 ",
+        "Answer": 22.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A clothing company used 2 buttons on jeans and 5 buttons on shirts. If they made 9 shirts and 1 pair of jeans,",
+        "Question": "how many buttons would they use total?",
+        "Equation": "(5*9)+(2*1)=47 ",
+        "Answer": 47.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Amy worked as a sacker at the grocery store where she made $2/hr. If she worked for 7 hours and also made $9 in tips,",
+        "Question": "how much money did she earn?",
+        "Equation": "7*2+9=23 ",
+        "Answer": 23.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A report said that each day the average Youtube viewer watches 2 videos with each video lasting 7 minutes. Additionally they also watch 3 minutes of ads. According to the report,",
+        "Question": "how many minutes total do people spend on Youtube?",
+        "Equation": "2*7+3=17 ",
+        "Answer": 17.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Zoe bought an app that cost $5 dollars. Then each month you have to pay $8 to play online. If she played the game online for 2 months,",
+        "Question": "how much money would she have spent total for the app and the online access?",
+        "Equation": "8*2+5=21 ",
+        "Answer": 21.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Adam had 8 boxes of toys. Each box had 6 toys. Later Adam bought 5 more toys.",
+        "Question": "How many toys did he have total?",
+        "Equation": "8*6+5=53 ",
+        "Answer": 53.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Edward spent $2 on a board game and then he bought 4 action figures for $7 each.",
+        "Question": "How much money did he spend on the game and figures?",
+        "Equation": "4*7+2=30 ",
+        "Answer": 30.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A company was offering a special on cell phones for $2 each. But only if you spent 7 dollars a month for 4 months.",
+        "Question": "How much would it end up costing you total if you bought 1 phone?",
+        "Equation": "7*4+2=30 ",
+        "Answer": 30.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A pet store sold 2 kittens and 1 puppy over the weekend. The kittens sold for $6 each and the puppy sold for $5.",
+        "Question": "How much money did they earn from selling the pets?",
+        "Equation": "(2*6)+(1*5)=17 ",
+        "Answer": 17.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At the arcade Amy had 6 tickets she saved from the last time she went. This time she played a game 7 times and earned 5 tickets each time she played.",
+        "Question": "How many tickets does she have now?",
+        "Equation": "7*5+6=41 ",
+        "Answer": 41.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A malt shop used 4 ounces of chocolate syrup in their shakes and 6 ounces of syrup on their cones. If they sold 2 shakes and 1 cone,",
+        "Question": "how many ounces of chocolate would they use total?",
+        "Equation": "(4*2)+(6*1)=14 ",
+        "Answer": 14.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A grocery store had forty-nine bottles of regular soda and thirty-five bottles of diet soda.",
+        "Question": "How many bottles did they have total?",
+        "Equation": "49+35=84",
+        "Answer": 84.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "While playing a game Sam had ninety-two points. If he scored another three points,",
+        "Question": "how many points would he have total?",
+        "Equation": "92+3=95",
+        "Answer": 95.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "In the first half of a trivia game Kaleb scored forty-three points. In the second half he scored twenty-three points.",
+        "Question": "How many points did he score total?",
+        "Equation": "43+23=66",
+        "Answer": 66.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mike owned sixty-four baseball cards. For his birthday he got eighteen more.",
+        "Question": "How many cards does Mike have total?",
+        "Equation": "64+18=82",
+        "Answer": 82.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "For a party Henry spent forty-five dollars on food and thirty-three dollars on drinks.",
+        "Question": "How much did Henry spend total?",
+        "Equation": "45+33=78",
+        "Answer": 78.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A restaurant sold seventy-seven sodas in the morning and nineteen in the afternoon.",
+        "Question": "How many sodas did they sell total?",
+        "Equation": "77+19=96",
+        "Answer": 96.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A store has fifty-six shirts. Later they got in eleven more shirts.",
+        "Question": "How many shirts does the store have now?",
+        "Equation": "56+11=67",
+        "Answer": 67.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Bianca spent twenty-two minutes drawing at school and nineteen minutes drawing at home.",
+        "Question": "How many minutes total did she spend drawing?",
+        "Equation": "22+19=41",
+        "Answer": 41.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There were sixty-one people in line at lunch when twenty-two more got in line.",
+        "Question": "How many people were there total in line?",
+        "Equation": "61+22=83",
+        "Answer": 83.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A fast food restaurant sold fifty-eight small hotdogs and twenty-one large hotdogs.",
+        "Question": "How many hotdogs did they sell total?",
+        "Equation": "58+21=79",
+        "Answer": 79.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Henry had $54. Later he sold some of his old toys and got another $2.",
+        "Question": "How much money does he have total?",
+        "Equation": "54+2=56",
+        "Answer": 56.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "An aquarium had ten fish in it. Later they added three fish.",
+        "Question": "How many fish are in the aquarium now?",
+        "Equation": "10+3=13",
+        "Answer": 13.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Isabel had sixty-eight pieces of candy. Her friend gave her twenty-five more pieces.",
+        "Question": "How many pieces of candy did Isabel have total?",
+        "Equation": "68+25=93",
+        "Answer": 93.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Maria had fifty sheets of paper in her desk and forty-one more in her backpack.",
+        "Question": "How many did she have total?",
+        "Equation": "50+41=91",
+        "Answer": 91.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "On Facebook Debby had sixty-three photos of her friends and twenty-three photos of her family.",
+        "Question": "How many photos did she have total?",
+        "Equation": "63+23=86",
+        "Answer": 86.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Adam had seventy-nine dollars saved up. After doing some chores his mother gave him another thirteen dollars.",
+        "Question": "How much money does he have total?",
+        "Equation": "79+13=92",
+        "Answer": 92.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Debby received twenty-one text messages before noon and another eighteen after noon.",
+        "Question": "How many text messages did Debby receive total?",
+        "Equation": "21+18=39",
+        "Answer": 39.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At the fair Amy started with thirty-three tickets and then bought twenty-one more.",
+        "Question": "How many tickets did Amy have total?",
+        "Equation": "33+21=54",
+        "Answer": 54.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Mike collected seventy-one cans to recycle on Monday and twenty-seven more on Tuesday.",
+        "Question": "How many cans did Mike collect all together?",
+        "Equation": "71+27=98",
+        "Answer": 98.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A baker already had seventy-eight cakes but made nine extra.",
+        "Question": "How many cakes did the baker have total?",
+        "Equation": "78+9=87",
+        "Answer": 87.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A pet store had sixty-four birds that talked and thirteen that didn't.",
+        "Question": "How many birds did the pet store have total?",
+        "Equation": "64+13=77",
+        "Answer": 77.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At the zoo Zoe took sixty-seven pictures. If her sister took another seventeen pictures,",
+        "Question": "how many did they take total?",
+        "Equation": "67+17=84",
+        "Answer": 84.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At the arcade Henry had won fifty-eight tickets. Later he won forty more tickets.",
+        "Question": "How many tickets did Henry have total?",
+        "Equation": "58+40=98",
+        "Answer": 98.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Katie had seventy-two DS games and her friend had twenty-three games.",
+        "Question": "How many do they have total?",
+        "Equation": "72+23=95",
+        "Answer": 95.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Sam was playing basketball with his friend. Sam scored seventy-five points and his friend scored twelve points.",
+        "Question": "How many points did they score total?",
+        "Equation": "75+12=87",
+        "Answer": 87.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "While exercising Paul did fifty-nine push-ups in the morning and thirty-eight more in the afternoon.",
+        "Question": "How many push-ups did Paul do total?",
+        "Equation": "59+38=97",
+        "Answer": 97.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A farmer planted twenty seeds on Wednesday and another two seeds on Thursday.",
+        "Question": "How many seeds did he plant total?",
+        "Equation": "20+2=22",
+        "Answer": 22.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Haley watched TV for six hours on Saturday and three hours on Sunday.",
+        "Question": "How many hours did Haley watch TV total?",
+        "Equation": "6+3=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jerry walked nine miles on Monday and nine more on Tuesday.",
+        "Question": "How many miles did Jerry walk?",
+        "Equation": "9+9=18",
+        "Answer": 18.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Gwen had ten fish and her sister had five fish.",
+        "Question": "How many fish did they have total?",
+        "Equation": "10+5=15",
+        "Answer": 15.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Victor had $10. For his allowance he got another $8.",
+        "Question": "How much money does he have total?",
+        "Equation": "10+8=18",
+        "Answer": 18.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "For Halloween Frank got ten pounds of candy and Gwen got seven pounds of candy.",
+        "Question": "What is the combined weight they received?",
+        "Equation": "10+7=17",
+        "Answer": 17.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Roger was packing up his old toys. He filled eleven boxes with action figures and two boxes with old games.",
+        "Question": "How many boxes did he pack total?",
+        "Equation": "11+2=13",
+        "Answer": 13.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A store sold eight cold drinks and three hot drinks.",
+        "Question": "How many drinks did they sell total?",
+        "Equation": "8+3=11",
+        "Answer": 11.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A pet store had six kittens. If they got another three kittens,",
+        "Question": "how many would they have total?",
+        "Equation": "6+3=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Faye had seven books. If she bought twelve more at a yard sale,",
+        "Question": "how many would she have total?",
+        "Equation": "7+12=19",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "John has twelve shirts. Later he bought four more shirts.",
+        "Question": "How many shirts does John have total?",
+        "Equation": "12+4=16",
+        "Answer": 16.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Robin drank seven bottles of water in the morning and seven in the afternoon.",
+        "Question": "How many bottles did Robin drink total?",
+        "Equation": "7+7=14",
+        "Answer": 14.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Roger went to the movies fifteen times last year and three times this year.",
+        "Question": "How many times did Roger go to the movies all together?",
+        "Equation": "15+3=18",
+        "Answer": 18.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Olivia picked up sixteen pieces of paper from the floor. If Edward picked up three pieces,",
+        "Question": "how many did they pick up total?",
+        "Equation": "16+3=19",
+        "Answer": 19.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Victor had nine books. During the book fair he bought three more.",
+        "Question": "How many books did Victor have total?",
+        "Equation": "9+3=12",
+        "Answer": 12.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Katie had twelve pencils in her desk and three more in her backpack.",
+        "Question": "How many did she have total?",
+        "Equation": "12+3=15",
+        "Answer": 15.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Debby had twelve pounds of flour. If she bought another four pounds,",
+        "Question": "how many pounds would she have total?",
+        "Equation": "12+4=16",
+        "Answer": 16.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "At the fair Haley went on six rides in the day and three at night.",
+        "Question": "How many rides did Haley go on total?",
+        "Equation": "6+3=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Lana had eleven DS games. If she bought two more games,",
+        "Question": "how many would she have total?",
+        "Equation": "11+2=13",
+        "Answer": 13.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Jerry owned seven video games. For his birthday he got two more.",
+        "Question": "How many games did Jerry have total?",
+        "Equation": "7+2=9",
+        "Answer": 9.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "A clown gave away eleven balloons to girls and three balloons to boys.",
+        "Question": "How many balloons did he give away total?",
+        "Equation": "11+3=14",
+        "Answer": 14.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "There were ten people on the bus. At the next stop three more people got on the bus.",
+        "Question": "How many people are there on the bus now?",
+        "Equation": "10+3=13",
+        "Answer": 13.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "Oliver collected two seashells from the beach on Monday and two more on Tuesday.",
+        "Question": "How many seashells did Oliver collect all together?",
+        "Equation": "2+2=4",
+        "Answer": 4.0,
+        "Type": "Addition"
+    },
+    {
+        "Body": "April's discount flowers was having a sale where each flower was eight dollars. If Vanessa bought three roses and three daisies,",
+        "Question": "how much did she spend?",
+        "Equation": "(3*8)+(3*8)=48",
+        "Answer": 48.0,
+        "Type": "Addition"
+    }
+]
