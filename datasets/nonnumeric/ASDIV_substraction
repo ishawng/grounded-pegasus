@@ -1,0 +1,1 @@
+[{"Body": "Ben had <n> marbles and John had <n> marbles. Ben gave half of his marbles to John.", "Question": "How many more marbles did John have than Ben then?", "Equation": "(17+18/2)-18/2=17", "Answer": "17 (marbles)", "Type": "Substraction"}]

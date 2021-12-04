@@ -1,0 +1,1 @@
+[{"Body": "Zachary collects cans for the recycling club. On the first day, he found <n> cans. On the second day, he found <n> cans. He found <n> cans on the third day. If this pattern continues,", "Question": "how many cans do you <n> think Zachary will find on the seventh day?", "Equation": "4+(9-4)*(7-1)=34", "Answer": "34 (cans)", "Type": "Number-Pattern"}]

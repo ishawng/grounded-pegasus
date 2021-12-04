@@ -1,0 +1,1 @@
+[{"Body": "At a comic book convention vendor <n> was selling a set of <n> comics for $31.77. Vendor <n> was selling a set of <n> comics for $21.32.", "Question": "Which vendor has the higher unit price?", "Equation": "31.77/3=10.59(Vendor 1) < 21.32/2=10.66(Vendor 2)", "Answer": "Vendor 2", "Type": "Comparison"}]
