@@ -83,6 +83,8 @@ def write_to_dataframe(src_path, dst_path):
     return
 
 # write_to_dataframe("datasets/nonnumeric/SVAMP.json", "nonnumeric_SVAMP.pkl")
-    
 
+src_paths = ["datasets/nonnumeric/SVAMP.json", "datasets/nonnumeric/SVAMP.json"]
+def combine_datasets(src_paths, write_to):
+    pass
 

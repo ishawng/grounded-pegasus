@@ -110,7 +110,7 @@ class Lang:
         for word in keep_words:
             self.addWord(word)
 
-def initLang(characters, df, verbose=True):
+def initLang(df, verbose=True):
     """
     Initialize Lang object, create word indices and update counts
     """
@@ -125,13 +125,14 @@ def initLang(characters, df, verbose=True):
     return lang
 
 # Create Dataloader
-class MathWordProblemDataset(Dataset):
-    def __init__(self, df: pd.DataFrame, lang: Lang, context_col:str, target_col:str, MAX_LEN=10) -> None:
+class MWPDataset(Dataset):
+    def __init__(self, df: pd.DataFrame, lang: Lang, context_col:str, target_col:str, tokenizer, MAX_LEN=10) -> None:
         super().__init__()
         self.lang = lang
         self.df = df
         self.target_col = target_col
         self.input_col = context_col
+        self.tokenizer=tokenizer
         self.MAX_LEN = MAX_LEN
         assert self.input_col in self.df.columns
         assert self.target_col in self.df.columns
@@ -147,15 +148,11 @@ class MathWordProblemDataset(Dataset):
         target_tensor = None
         input_sentence = input_sentence[-self.MAX_LEN+1:]
         target_sentence = target_sentence[:self.MAX_LEN-1]
-        input = [self.lang.getIndexFromWord(w) for w in input_sentence] + [1]
-        target = [self.lang.getIndexFromWord(w) for w in target_sentence] + [1]
-        input_tensor = torch.Tensor(input).long()
-        target_tensor = torch.Tensor(target).long()
+        input = self.tokenizer(input_sentence)
+        target = self.tokenizer(target_sentence)
+        input["labels"] = target['input_ids']
 
-        return {
-            'input_tensor' : input_tensor,
-            'target_tensor' : target_tensor
-        }
+        return input
 
 def create_data_loader(df, lang: Lang, context_col:str, 
                         target_col:str, MAX_LEN:int = 10, shuffle=True):
